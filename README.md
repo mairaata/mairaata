@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mairaata/mairaata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hey friends!<br>🎓 I'm Maira - Data Scientist, AI Researcher, Machine learning Practitioner<br>
+🌱 I’m currently learning and working in Information Retrieval, Anomaly Detection and Reinforcement Learning<br>
+ 👯 I’m looking to collaborate on Open Source Projects on Machine learning project. Let's create something remarkable together!
+
